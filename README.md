@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200§ion=header&text=MUHAMMAD%20MOHSIN%20GHAFOOR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=MUHAMMAD%20MOHSIN%20GHAFOOR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Dart%20%7C%20Firebase%20%7C%20Riverpod%20%7C%20Mobile%20App%20Development&descSize=16&descAlignY=55" width="100%" />
 </p>
 
 
