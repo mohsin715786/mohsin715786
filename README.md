@@ -13,7 +13,7 @@
   <a href="https://github.com/mohsin715786">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:chmohsinch0303@gmail.com">
     <img src="https://img.shields.io/badge/Email-B71C1C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -104,7 +104,7 @@ I'm a passionate **Flutter & Dart developer** who loves building mobile apps peo
   <a href="https://github.com/mohsin715786">
     <img src="https://img.shields.io/badge/GitHub-mohsin715786-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:chmohsinch0303@gmail.com">
     <img src="https://img.shields.io/badge/Email-your@email.com-B71C1C?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
