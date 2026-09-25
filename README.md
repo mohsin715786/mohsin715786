@@ -110,7 +110,7 @@ A Flutter and Firebase-based peer-to-peer marketplace designed for campus commun
 | Project | Description | Technologies |
 |---|---|---|
 | **Peer-Link** | Campus peer-to-peer marketplace | Flutter, Dart, Firebase, Riverpod |
-| **Library Management System** | Open-source library inventory and management system | Flutter, Dart |
+| **Library Management System** | Open-source library inventory and management system | C# |
 | **Expense Tracker** | Lightweight personal finance tracking application | C++, Flutter, Dart |
 | **BMI Calculator** | Mobile application for BMI calculation and health metrics | Flutter, Dart |
 
