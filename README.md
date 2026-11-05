@@ -116,27 +116,6 @@ A Flutter and Firebase-based peer-to-peer marketplace designed for campus commun
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-bice-xi.vercel.app/api?username=mohsin715786&show_icons=true&hide_border=true&count_private=true&bg_color=0B1220&title_color=60A5FA&text_color=FFFFFF&icon_color=60A5FA" height="165" />
-  <img src="https://github-readme-stats-bice-xi.vercel.app/api/top-langs/?username=mohsin715786&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=FFFFFF" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=mohsin715786&hide_border=true&background=0B1220&stroke=0B1220&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=60A5FA&dates=9CA3AF" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsin715786&bg_color=0B1220&color=60A5FA&line=60A5FA&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
